@@ -1,0 +1,10 @@
+name: AutoServerShutdown
+version: '1.0-SNAPSHOT'
+main: me.andrei1744.autoservershutdown.AutoServerShutdown
+api-version: '1.20'
+commands:
+  shutdown:
+    description: Change the server shutdown time
+    usage: /shutdown <hour> <minute>
+
+folia-supported: true

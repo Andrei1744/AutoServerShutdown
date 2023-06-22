@@ -1,0 +1,14 @@
+#Default Shutdown Interval
+shutdown:
+  hour: 23
+  minute: 0
+#Warning messages. Change if you want.
+warnings:
+  15_minutes: '&cServer shutting down in 15 minutes!'
+  10_minutes: '&cServer shutting down in 10 minutes!'
+  5_minutes: '&cServer shutting down in 5 minutes!'
+  5_seconds: '&cServer shutting down in 5 seconds!'
+  4_seconds: '&cServer shutting down in 4 seconds!'
+  3_seconds: '&cServer shutting down in 3 seconds!'
+  2_seconds: '&cServer shutting down in 2 seconds!'
+  1_second: '&cServer shutting down in 1 second!'
